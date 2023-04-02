@@ -1,2 +1,2 @@
 # springboot-kafka-backend
-Wikimedia streaming data storing using springboot and kafka in MySql database
+Wikimedia streaming data storing using springboot and apache kafka in MySql database
